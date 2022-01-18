@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Risingphoenix86/React-Portfolio/static/css/main.07df889c.css",
+    "main.js": "/Risingphoenix86/React-Portfolio/static/js/main.873162ad.js",
+    "static/media/Project-picker-app.PNG": "/Risingphoenix86/React-Portfolio/static/media/Project-picker-app.0a7de95ef55ec2ada755.PNG",
+    "static/media/Groovy-movie.PNG": "/Risingphoenix86/React-Portfolio/static/media/Groovy-movie.d230dff4cd21a37090f3.PNG",
+    "static/media/profile-pic.jpg": "/Risingphoenix86/React-Portfolio/static/media/profile-pic.9af0511f40e0c9206c27.jpg",
+    "static/media/Weather-dash.PNG": "/Risingphoenix86/React-Portfolio/static/media/Weather-dash.954f4b8f03d472949535.PNG",
+    "static/media/Tech-blog.PNG": "/Risingphoenix86/React-Portfolio/static/media/Tech-blog.3a81e910ec78187919a6.PNG",
+    "static/media/Google-book-search.PNG": "/Risingphoenix86/React-Portfolio/static/media/Google-book-search.76db2e78074bbc02d0c6.PNG",
+    "static/media/Note-taker.PNG": "/Risingphoenix86/React-Portfolio/static/media/Note-taker.b42b33bd37e49c96a9c2.PNG",
+    "index.html": "/Risingphoenix86/React-Portfolio/index.html",
+    "main.07df889c.css.map": "/Risingphoenix86/React-Portfolio/static/css/main.07df889c.css.map",
+    "main.873162ad.js.map": "/Risingphoenix86/React-Portfolio/static/js/main.873162ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07df889c.css",
+    "static/js/main.873162ad.js"
+  ]
+}
